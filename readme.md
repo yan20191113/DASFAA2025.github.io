@@ -31,7 +31,7 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 
 ## Organizing Team
 
-| ![avatar](./picture/1.png) |![avatar](./picture/2.png) |![avatar](./picture/3.png) |
+| ![avatar](./1.png) |![avatar](./2.jpg) |![avatar](./3.jpg) |
 | :-: | :-:|
 
 |  Prof. Xiaoling Wang, East China Normal University, China |Prof. Kai Zheng, University of Electronic Science and Technology of China | Dr. Yan Zhao, Aalborg University, Denmark |

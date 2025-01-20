@@ -3,11 +3,11 @@
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <a href="http://www.tjudb.cn/dasfaa2023/"> DASFAA 2023 </a><a href="http://www.tjudb.cn/dasfaa2023/">(http://www.tjudb.cn/dasfaa2023/)</a> </h2>
+  <h2> <a href="https://dasfaa2025.github.io/"> DASFAA 2025 </a><a href="https://dasfaa2025.github.io/">(https://dasfaa2025.github.io/)</a> </h2>
  </div>
  
 ## Workshop:
-**The 9th International Workshop on Big Data Management and Service**
+**The 11th International Workshop on Big Data Management and Service**
 
 
 ## Abstract:
@@ -28,27 +28,30 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 * Big Data Applications (Internet of Things, Social Networks, etc.)
 * Security, Trust, and Privacy Issues in Big Data Sharing
 * Delivery, Deployment, and Maintenance of Big Data as a Service (BDaaS)
+* Vector Database
+* Foundation Models
 
 ## Organizing Team
 
+* Prof. Yan Zhao, University of Electronic Science and Technology of China, China 
 * Prof. Xiaoling Wang, East China Normal University, China 
-* Prof. Kai Zheng, University of Electronic Science and Technology of China 
-* Dr. Yan Zhao, Aalborg University, Denmark 
+* Prof. Kai Zheng, University of Electronic Science and Technology of China, China 
+
 
 
 ## Important Dates
 
 
-* Paper submission due: 31/12/2022
-* Notification of Acceptance: 20/03/2023
-* Camera-Ready Papers Due: 28/03/2023
-* Workshop date: 17/04/2023
+* Paper submission due: 20/03/2025
+* Notification of Acceptance: 20/04/2025
+* Camera-Ready Papers Due: 30/04/2025
+* Workshop date: 26/05/2025
 
 
 ## Publication
 
 DASFAA (Database Systems for Advanced Applications) is an annual international database conference, typically located in the Asia Pacific region, aimed at showcasing the state-of-the-art and the broad range of activities in database-related research and development. It provides a forum for technical presentations and discussions among database researchers, developers and users from academia, business and industry.
 
-The 28th DASFAA conference will be held from 17-20 April 2023 in Tianjin, China.
+The 28th DASFAA conference will be held from 26-29 May 2025 in Sinapore.
 
 Authors are invited to submit electronically original, English-language research contributions not concurrently submitted elsewhere. Accepted papers will be published by Springer as proceedings in Lecture Notes in Computer Science (LNCS). All submitted papers should be Springer LNCS camera-ready format. The style files are available from Springer LNCS site. All submissions files should be in PDF formats. The length of the paper could be 10 to 15 pages. The number of pages should not exceed 15 pages. Any paper more than 15 pages will be rejected.

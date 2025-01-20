@@ -3,7 +3,7 @@
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <a href="https://dasfaa2025.github.io/"> DASFAA 2025 </a><a href="https://dasfaa2025.github.io/">(https://dasfaa2025.github.io/)</a> </h2>
+  <h2> <a href="https://dasfaa2025.github.io/"> DASFAA 2025 </a><a href="https://dasfaa2025.github.io/"></a> </h2>
  </div>
  
 ## Workshop:

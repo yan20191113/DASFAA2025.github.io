@@ -55,3 +55,7 @@ DASFAA (Database Systems for Advanced Applications) is an annual international d
 The 28th DASFAA conference will be held from 26-29 May 2025 in Sinapore.
 
 Authors are invited to submit electronically original, English-language research contributions not concurrently submitted elsewhere. Accepted papers will be published by Springer as proceedings in Lecture Notes in Computer Science (LNCS). All submitted papers should be Springer LNCS camera-ready format. The style files are available from Springer LNCS site. All submissions files should be in PDF formats. The length of the paper could be 10 to 15 pages. The number of pages should not exceed 15 pages. Any paper more than 15 pages will be rejected.
+
+## Submission
+
+Please submit your paper to zhaoyan@uestc.edu.cn with the title 'BDMS2025 Submission'.

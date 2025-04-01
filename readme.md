@@ -7,7 +7,7 @@
  </div>
  
 ## Workshop:
-**The 11th International Workshop on Big Data Management and Service (02/07/2024, Gifu, Japan)**
+**The 11th International Workshop on Big Data Management and Service (26/05/2025, Singapore)**
 
 ## Program
 

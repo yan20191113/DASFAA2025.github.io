@@ -3,59 +3,46 @@
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <a href="https://dasfaa2025.github.io/"> DASFAA 2025 </a><a href="https://dasfaa2025.github.io/"></a> </h2>
+  <h2> <a href="https://www.dasfaa2024.org/"> DASFAA 2024 </a><a href="https://www.dasfaa2024.org/">(https://www.dasfaa2024.org/)</a> </h2>
  </div>
  
 ## Workshop:
-**The 11th International Workshop on Big Data Management and Service**
+**The 11th International Workshop on Big Data Management and Service (02/07/2024, Gifu, Japan)**
+
+## Program
+
+**13:30-13:35 Opening**
+
+**13:35-14:05 Invited Talk: Machine Learning Integrating Cognitive Mechanisms and Knowledge Representation**
+
+<div align='center' > 
+ <img width="120" src="yu.png" align="right" alt="yu">
+</div>
+
+* **Speaker**: Hong Yu (Professor, Chongqing University of Posts and Telecommunications, China)
+  
+* **Biography**: Hong Yu is a professor at Chongqing University of Posts and Telecommunications in China and an Academic Leader in Intelligent Science & Technology in Chongqing. Her research interests focus on rough sets, three-way decisions, industrial big data, medical data analysis, automation of knowledge, knowledge discovery and machine learning. Her researches have been funded by the National Natural Science Foundation of China. She received a Chongqing Natural Science and Technology Award. She has published 5 books and 80 research articles. She holds 10 patents and has 12 software copyrights.
+* **Abstract**: Current limitations in machine learning reliability stem from two critical gaps: (1) the disconnection between micro data and macro knowledge, and (2) the inconsistency between machine learning paradigms and human cognitive processes. Here I present a study of machine learning by integrating cognitive mechanisms and mesoscale knowledge representation. Drawing inspiration from mesoscience principles, we develop mesoscale knowledge representations that bridge micro data and macro knowledge through causal graphs, hierarchical architectures, and enriched feature embeddings. Our approach systematically incorporates core cognitive mechanisms—including perception, memory, and attention—try to create human-aligned machine learning models. Experimental validation demonstrates the study’s effectiveness: mesoscale representations achieve 2.47% improvement in mean values of age accuracy and enable precise facial age synthesis through hierarchical causal learning. In cognitive integration tasks, we show how episodic memory-based class incremental learning maintains 74.85% average accuracy over 9 learning phases on ImageNet-100. The talk further presents practical implementations in autonomous driving, where our cognitive-mesoscale integration framework enhances success rate by 47.5% at unsignalized intersections through leveraging diminishing demonstrations in deep reinforcement learning. These advancements establish a new paradigm for developing trustworthy, biologically-inspired machine intelligence that harmonizes data-driven learning with human-like reasoning.
+
+**14:05-14:20 MSPformer: P100 is All You Need for Efficient Traffic Flow Prediction**
+* Yuyang Wang, Ningning Fu, and Shengheng Liu
+
+**14:20-14:35 CF-SSAD: Addressing Low Separability of Clusters in Medical Data**
+* Hanyue Liu, Jianhang Yu, Hong Yu, and Guoyin Wang
+
+**14:35-14:50 Intelligent Dispatch System: An E-Government System Based on LLM**
+* Shuchun Wu, Xinyu Xie, Yiqiao Wang, Jiayi Liang, and Junyu Niu
+
+**14:50-15:05 SmartTCM: Intelligent System for TCM Heritage Preservation**
+* Ming Guan, Wenjing Yue, Chunliang Chen, Xinyu Wang, and Xiaoling Wang
+
+**15:05-15:30 Coffee Break**
 
 
-## Abstract:
-
-The proliferation of new technologies such as Internet of things, social networks and cloud computing produces datasets whose volume, velocity, and variability are beyond the ability of commonly used software tools. Efficient processing of big data creates notable research challenges and opportunities for traditional databases and infrastructure. On the other hand, computing and software are turned into commodity services by cloud computing, so it is necessary to examine Big Data as a Service (BDaaS) from both technology and business aspects.
-
-This workshop welcomes different kinds of papers that emphasize theoretical foundations, algorithms, systems, and applications for big data management and service. Submitted papers may address issues including big data theory, architecture, modeling, analytics, mining, business, toolkits, visualization, open platforms, applications. Papers of applied research, industrial experience reports, work-in-progress, and vision papers with different criteria for each category are also solicited.
-
-**Topics of particular interest include, but are not limited to:**
-
-* Challenges and Open Problems for Big Data Management and Service (Vision Paper)
-* Big Data Theory, Modeling and Representation
-* Big Data Platforms, Systems, and Architecture
-* Big Data Mining and Analytics
-* Distributed and Parallelized Algorithms for Big Data
-* Real-time and Streaming Algorithms for Big Data
-* Big Data Toolkits and Visualization
-* Big Data Applications (Internet of Things, Social Networks, etc.)
-* Security, Trust, and Privacy Issues in Big Data Sharing
-* Delivery, Deployment, and Maintenance of Big Data as a Service (BDaaS)
-* Vector Database
-* Foundation Models
 
 ## Organizing Team
 
-* Prof. Yan Zhao, University of Electronic Science and Technology of China, China 
+* Prof. Yan Zhao, University of Electronic Science and Technology of China 
 * Prof. Xiaoling Wang, East China Normal University, China 
-* Prof. Kai Zheng, University of Electronic Science and Technology of China, China 
+* Prof. Kai Zheng, University of Electronic Science and Technology of China 
 
-
-
-## Important Dates
-
-
-* Paper submission due: 20/03/2025
-* Notification of Acceptance: 26/03/2025
-* Camera-Ready Papers Due: 05/04/2025
-* Workshop date: 26/05/2025
-
-
-## Publication
-
-DASFAA (Database Systems for Advanced Applications) is an annual international database conference, typically located in the Asia Pacific region, aimed at showcasing the state-of-the-art and the broad range of activities in database-related research and development. It provides a forum for technical presentations and discussions among database researchers, developers and users from academia, business and industry.
-
-The 28th DASFAA conference will be held from 26-29 May 2025 in Sinapore.
-
-Authors are invited to submit electronically original, English-language research contributions not concurrently submitted elsewhere. Accepted papers will be published by Springer as proceedings in Lecture Notes in Computer Science (LNCS). All submitted papers should be Springer LNCS camera-ready format. The style files are available from Springer LNCS site. All submissions files should be in PDF formats. The length of the paper could be 10 to 15 pages. The number of pages should not exceed 15 pages. Any paper more than 15 pages will be rejected.
-
-## Submission
-
-Please submit your paper to zhaoyan@uestc.edu.cn with the title 'BDMS2025 Submission'.

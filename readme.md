@@ -9,6 +9,10 @@
 ## Workshop:
 **The 11th International Workshop on Big Data Management and Service (26/05/2025, Singapore)**
 
+## Chair
+
+**Yan Zhao (University of Electronic Science and Technology of China)**
+
 ## Program
 
 **13:30-13:35 Opening**
@@ -42,7 +46,7 @@
 
 ## Organizing Team
 
-* Prof. Yan Zhao, University of Electronic Science and Technology of China 
+* Prof. Yan Zhao, University of Electronic Science and Technology of China, China 
 * Prof. Xiaoling Wang, East China Normal University, China 
-* Prof. Kai Zheng, University of Electronic Science and Technology of China 
+* Prof. Kai Zheng, University of Electronic Science and Technology of China, China 
 

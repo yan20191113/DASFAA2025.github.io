@@ -34,8 +34,8 @@
 **14:20-14:35 CF-SSAD: Addressing Low Separability of Clusters in Medical Data**
 * Hanyue Liu, Jianhang Yu, Hong Yu, and Guoyin Wang
 
-**14:35-14:50 Intelligent Dispatch System: An E-Government System Based on LLM**
-* Shuchun Wu, Xinyu Xie, Yiqiao Wang, Jiayi Liang, and Junyu Niu
+**14:35-14:50 iWODS: Intelligent Work Orders Dispatch System Based on LLM**
+* Shuchun Wu, Xinyu Xie, Yiqiao Wang, Jiayi Liang, Shudong Wang, and Junyu Niu
 
 **14:50-15:05 SmartTCM: Intelligent System for TCM Heritage Preservation**
 * Ming Guan, Wenjing Yue, Chunliang Chen, Xinyu Wang, and Xiaoling Wang
